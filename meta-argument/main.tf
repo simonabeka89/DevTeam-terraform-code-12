@@ -37,3 +37,4 @@ resource "aws_instance" "serber1" {
     create_before_destroy = true
   }
 }
+
